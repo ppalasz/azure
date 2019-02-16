@@ -1,0 +1,14 @@
+C:\Projekty\stacjait\azure\WebCore\WebCore\bin\Debug\netcoreapp2.1\WebCore.deps.json
+C:\Projekty\stacjait\azure\WebCore\WebCore\bin\Debug\netcoreapp2.1\WebCore.runtimeconfig.json
+C:\Projekty\stacjait\azure\WebCore\WebCore\bin\Debug\netcoreapp2.1\WebCore.runtimeconfig.dev.json
+C:\Projekty\stacjait\azure\WebCore\WebCore\bin\Debug\netcoreapp2.1\WebCore.dll
+C:\Projekty\stacjait\azure\WebCore\WebCore\bin\Debug\netcoreapp2.1\WebCore.pdb
+C:\Projekty\stacjait\azure\WebCore\WebCore\obj\Debug\netcoreapp2.1\WebCore.csprojAssemblyReference.cache
+C:\Projekty\stacjait\azure\WebCore\WebCore\obj\Debug\netcoreapp2.1\WebCore.csproj.CoreCompileInputs.cache
+C:\Projekty\stacjait\azure\WebCore\WebCore\obj\Debug\netcoreapp2.1\WebCore.RazorAssemblyInfo.cache
+C:\Projekty\stacjait\azure\WebCore\WebCore\obj\Debug\netcoreapp2.1\WebCore.RazorAssemblyInfo.cs
+C:\Projekty\stacjait\azure\WebCore\WebCore\obj\Debug\netcoreapp2.1\WebCore.AssemblyInfoInputs.cache
+C:\Projekty\stacjait\azure\WebCore\WebCore\obj\Debug\netcoreapp2.1\WebCore.AssemblyInfo.cs
+C:\Projekty\stacjait\azure\WebCore\WebCore\obj\Debug\netcoreapp2.1\WebCore.RazorTargetAssemblyInfo.cache
+C:\Projekty\stacjait\azure\WebCore\WebCore\obj\Debug\netcoreapp2.1\WebCore.dll
+C:\Projekty\stacjait\azure\WebCore\WebCore\obj\Debug\netcoreapp2.1\WebCore.pdb
