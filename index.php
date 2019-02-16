@@ -4,7 +4,7 @@
 	</head>
 <body>
 	<div>
-		<h1>Test 244ff gddd 11  333 fff</h2>
+		<h1>Test ffffffffff</h2>
 		<?
 			phpinfo ();
 		?>
